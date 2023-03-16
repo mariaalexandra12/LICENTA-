@@ -1,2 +1,2 @@
-# LICENTA-
+# LICENTA
 program licenta 
